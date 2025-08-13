@@ -1,7 +1,7 @@
 import { Container } from "../shared/Container";
 import logo from "../../assets/icon.svg";
-import { navItems } from "./Navbar";
 import { NavItem } from "../shared/NavItem";
+import { navItems } from "../../utils/nav-items";
 
 const Footer = () => {
   return (

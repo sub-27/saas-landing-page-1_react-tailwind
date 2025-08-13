@@ -7,7 +7,7 @@ import { Title } from "../shared/Title";
 export const Services = () => {
   return (
     <section id="services">
-      <Container className="space-y-10 md:space-y-12">
+      <Container className="space-y-10 md:space-y-12 pt-5">
         <div className="text-center max-w-3xl mx-auto space-y-4">
           <Title> Our AI Services </Title>
           <Paragraph>
