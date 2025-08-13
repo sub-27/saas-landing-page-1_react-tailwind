@@ -2,7 +2,7 @@ import { Container } from "../shared/Container";
 import { NavItem } from "../shared/NavItem";
 import { BtnLink } from "../shared/BtnLink";
 import { useThemeStore } from "../../store/ThemeStore";
-import logo from "../../assets/icon.svg";
+import logo from "../../public/assets/icon.svg";
 import { navItems } from "../../utils/nav-items";
 
 const Navbar = () => {
